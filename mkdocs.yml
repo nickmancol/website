@@ -6,6 +6,7 @@ pages:
     - CV: cv.md
 
 theme:
+  name: 'material'
   palette:
     primary: 'green'
     accent: 'deep orange'
