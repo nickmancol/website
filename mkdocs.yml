@@ -1,1 +1,20 @@
-site_name: My Docs
+site_name: Nicolas Bohorquez Personal Website
+
+theme:
+  palette:
+    primary: 'green'
+    accent: 'deep orange'
+  font:
+    text: 'Confortaa'
+    code: 'Inconsolata'
+  logo:
+    icon: 'extension'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/nickmancol'
+    - type: 'twitter'
+      link: 'https://twitter.com/nickmancol'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/in/nickmancol'
