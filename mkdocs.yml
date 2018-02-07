@@ -1,4 +1,7 @@
-site_name: Nicolas Bohorquez Personal Website
+site_name: Nicolas Bohorquez
+site_description: Nicolas Bohorquez Personal Website
+site_author: Nicolas Bohorquez
+site_url: https://nicolasbohorquez.netlify.com/
 
 pages:
     - Home: index.md
@@ -24,3 +27,6 @@ extra:
       link: 'https://twitter.com/nickmancol'
     - type: 'linkedin'
       link: 'https://linkedin.com/in/nickmancol'
+
+repo_name: 'nickmancol/website'
+repo_url: 'https://github.com/nickmancol/website'
